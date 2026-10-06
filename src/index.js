@@ -1,3 +1,3 @@
 const nome = "Guilherme";
 
-console.log(`Olá ${nome}`);awdawdawdaw
+console.log(`Olá ${nome}`);
