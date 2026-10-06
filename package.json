@@ -1,0 +1,11 @@
+{
+  "name": "loja-online",
+  "version": "1.0.0",
+  "description": "Projeto utilizado na disciplina de Git, Agile e Dev Culture",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "^9.35.0"
+  }
+}
